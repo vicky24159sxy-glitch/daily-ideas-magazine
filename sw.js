@@ -1,4 +1,4 @@
-const CACHE_NAME = "daily-ideas-v4";
+const CACHE_NAME = "daily-ideas-v5";
 const scopePath = new URL(self.registration.scope).pathname;
 const APP_SHELL = [scopePath, `${scopePath}manifest.webmanifest`];
 
